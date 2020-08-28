@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agua potavel e Saneamento</title>
+
+    <link rel="stylesheet" type="text/css" href="semana1.css" media="screen" />
+
+</head>
+
+<body>
+ 
+<h1 class="prg1"> Agua Potavel</h1>
+
+<center>
+<img src="002181-20160307185111.jpg" alt="some text" width=140 height=120>
+</center>
+
+<br>
+<hr>
+    
+<p class="prg2">
+    A água potável é aquela que pode ser consumida pelo homem sem que haja nenhum prejuízo à saúde.<br>O planeta Terra possui cerca de 71% de sua superfície recoberta por água. Desse total, cerca de 97,5% da água é salgada<br> e apenas 2,5% são de água doce, que é a utilizada para consumo humano.
+</p>
+<br>
+
+<h1 class="prg4">Saneamento</h1>
+
+<center>
+<img src="saneamento-basico.jpg" alt="some text" width=140 height=120>
+</center>
+
+<hr>
+<br>
+
+<p class="prg3">
+    Saneamento é o conjunto de medidas que visa preservar ou modificar as condições do meio ambiente com a finalidade de prevenir doenças e promover a saúde, melhorar a qualidade de vida da população e à produtividade do indivíduo e facilitar a atividade econômica. No Brasil, o saneamento básico é um direito assegurado pela Constituição e definido pela Lei nº. 11.445/2007 como o conjunto dos serviços, infraestrutura e Instalações operacionais de abastecimento de água, esgotamento sanitário, limpeza urbana, drenagem urbana, manejos de resíduos sólidos e de águas pluviais.
+Embora atualmente se use no Brasil o conceito de Saneamento Ambiental como sendo os 4 serviços citados acima, o mais comum é o saneamento seja visto como sendo os serviços de acesso à água potável, à coleta e ao tratamento dos esgotos.
+</p>
+
+</body>
+
+
+</html>
